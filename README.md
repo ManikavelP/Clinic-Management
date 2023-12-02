@@ -28,7 +28,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/clinic-management-system.git
+git clone https://github.com/ManikavelP/Clinic-Management.git
 Set up your local server environment. You can use tools like XAMPP, WampServer, or any other server setup of your choice.
 
 Import the provided database file (clinic_management_system.sql) into your database management system (e.g., MySQL).
