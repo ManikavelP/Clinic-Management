@@ -1,4 +1,4 @@
-# Healthifer
+# Clinic Management
 
 Overview
 The Clinic Management System is a web-based application designed to streamline and optimize the daily operations of a medical clinic. This system provides a user-friendly interface for managing patient records, appointments, and other essential tasks within a clinic environment.
